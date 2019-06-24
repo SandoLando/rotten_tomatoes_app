@@ -4,7 +4,7 @@ import os
 
 
 class Rater:
-    """ Takes a movie title and then search www.rottentomatoes.com for that
+    """ Takes a movie title and then searches www.rottentomatoes.com for that
     movie's ratings.
     """
     def __init__(self, movie):
